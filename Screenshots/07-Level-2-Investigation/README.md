@@ -1,0 +1,1 @@
+# 07-Level-2-Investigation\n\nThe corresponding original screenshot is available in the supplied project materials, but the connected GitHub integration available in this session does not provide a binary upload operation. No replacement or fabricated image is stored here.\n
